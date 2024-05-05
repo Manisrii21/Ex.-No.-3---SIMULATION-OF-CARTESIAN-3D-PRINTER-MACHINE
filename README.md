@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/Adchayakiruthika18/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139995/e5957167-4a65-45af-b3e6-74f1c585635a)
+![Screenshot 2024-05-05 215031](https://github.com/Manisrii21/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140163/a148dc85-63c5-4c8a-9aa7-f3a9e697cca2)
+
 
 ### Name: MANI SRI LATHA.M
 ### Register Number: 212223110025
